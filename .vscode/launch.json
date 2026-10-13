@@ -3,7 +3,7 @@
   "configurations": [
     {
       "command": "npm start",
-      "name": "Run app",
+      "name": "Run ob-r2-1791918033135-1-app",
       "request": "launch",
       "type": "node-terminal"
     }
